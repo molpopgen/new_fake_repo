@@ -1,1 +1,3 @@
-# new_fake_repo
+# My new repository
+
+This does X, Y, and Z...
