@@ -1,3 +1,3 @@
 # My new repository
 
-This does X, Y, and Z...
+This does X, Y, and Z, and Q.
